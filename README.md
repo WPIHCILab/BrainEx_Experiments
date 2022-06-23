@@ -1,6 +1,5 @@
 # BrainEx_Experiments
 
-# BrainEX
 This repository has the code and experiments described in this paper:
 Howell-Munson, Alicia, Christopher Micek, Ziheng Li, Michael Clements, Andrew C. Nolan, Jackson Powell, Erin T. Solovey, and Rodica Neamtu. "BrainEx: Interactive Visual Exploration and Discovery of Sequence Similarity in Brain Signals." Proceedings of the ACM on Human-Computer Interaction 6, no. EICS (2022): 1-41.
 
